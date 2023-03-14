@@ -12,6 +12,13 @@ file and `project_files` listed in the `install.yaml` file.
 ------
 
 
+## [0.0.5](https://github.com/julienloizelet/ddev-magento2-mftf/releases/tag/v0.0.5) - 2023-03-14
+[_Compare with previous release_](https://github.com/julienloizelet/ddev-magento2-mftf/compare/v0.0.4...v0.0.5)
+
+- Move mftf nginx config
+
+---
+
 ## [0.0.4](https://github.com/julienloizelet/ddev-magento2-mftf/releases/tag/v0.0.4) - 2023-03-14
 [_Compare with previous release_](https://github.com/julienloizelet/ddev-magento2-mftf/compare/v0.0.3...v0.0.4)
 

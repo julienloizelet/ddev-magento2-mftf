@@ -4,4 +4,3 @@ name: mftf
 project_files:
 - docker-compose.selenium.yaml
 - okaeli-add-on
-- nginx
