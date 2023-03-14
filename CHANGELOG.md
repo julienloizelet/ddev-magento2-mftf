@@ -11,6 +11,13 @@ file and `project_files` listed in the `install.yaml` file.
 
 ------
 
+## [0.0.3](https://github.com/julienloizelet/ddev-magento2-mftf/releases/tag/v0.0.3) - 2023-03-14
+[_Compare with previous release_](https://github.com/julienloizelet/ddev-magento2-mftf/compare/v0.0.2...v0.0.3)
+
+- Add ddev signature in all files
+
+---
+
 
 ## [0.0.2](https://github.com/julienloizelet/ddev-magento2-mftf/releases/tag/v0.0.2) - 2023-03-14
 [_Compare with previous release_](https://github.com/julienloizelet/ddev-magento2-mftf/compare/v0.0.1...v0.0.2)
