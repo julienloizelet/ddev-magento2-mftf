@@ -3,4 +3,6 @@ name: mftf
 # list of files and directories listed that are copied into project .ddev directory
 project_files:
 - docker-compose.selenium.yaml
-- okaeli-add-on
+- okaeli-add-on/magento2/custom_files/mftf/.credentials
+- okaeli-add-on/magento2/custom_files/mftf/.env.dist
+- okaeli-add-on/magento2/custom_files/mftf/nginx-site.conf

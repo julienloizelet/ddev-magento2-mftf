@@ -11,6 +11,13 @@ file and `project_files` listed in the `install.yaml` file.
 
 ------
 
+## [0.0.7](https://github.com/julienloizelet/ddev-magento2-mftf/releases/tag/v0.0.7) - 2023-03-17
+[_Compare with previous release_](https://github.com/julienloizelet/ddev-magento2-mftf/compare/v0.0.6...v0.0.7)
+
+### Changed
+
+- List each file individually in `project_files`
+
 ## [0.0.6](https://github.com/julienloizelet/ddev-magento2-mftf/releases/tag/v0.0.6) - 2023-03-15
 [_Compare with previous release_](https://github.com/julienloizelet/ddev-magento2-mftf/compare/v0.0.5...v0.0.6)
 
